@@ -1,0 +1,6 @@
+@RestAPI_Zad_9_HostAddress = http://localhost:5102
+
+GET {{RestAPI_Zad_9_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
